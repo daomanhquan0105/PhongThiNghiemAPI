@@ -5639,11 +5639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Asp.net core\\New folder (2)\\PhongThiNghiem\\PhongThiNghiem.csproj",
+      "projectUniqueName": "g:\\Asp.net core\\New folder (2)\\PhongThiNghiemAPI\\PhongThiNghiem\\PhongThiNghiem.csproj",
       "projectName": "PhongThiNghiem",
-      "projectPath": "G:\\Asp.net core\\New folder (2)\\PhongThiNghiem\\PhongThiNghiem.csproj",
+      "projectPath": "g:\\Asp.net core\\New folder (2)\\PhongThiNghiemAPI\\PhongThiNghiem\\PhongThiNghiem.csproj",
       "packagesPath": "C:\\Users\\DELL 5559\\.nuget\\packages\\",
-      "outputPath": "G:\\Asp.net core\\New folder (2)\\PhongThiNghiem\\obj\\",
+      "outputPath": "g:\\Asp.net core\\New folder (2)\\PhongThiNghiemAPI\\PhongThiNghiem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

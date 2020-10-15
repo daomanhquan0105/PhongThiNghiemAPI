@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FdPG56p3rNetl2BCeQyzUv85VyRlDnHEV6ZOro81pijIg2c/ByqPY6iDhCiqPhYi54GF6StSYYvqloA+SUN3/w==",
+  "dgSpecHash": "qHiVtd+oBJnpbL87rWT8QiibzWniM9albXPX7JyEjmm1NRJ4LVzs4r0M6VyDhWChbEHLcV3WJRsTXd3hGBGYlg==",
   "success": true,
-  "projectFilePath": "G:\\Asp.net core\\New folder (2)\\PhongThiNghiem\\PhongThiNghiem.csproj",
+  "projectFilePath": "G:\\Asp.net core\\New folder (2)\\PhongThiNghiemAPI\\PhongThiNghiem\\PhongThiNghiem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL 5559\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DELL 5559\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
